@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475836181 source:c:\users\a\desktop\3.12栈应用进制转换\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

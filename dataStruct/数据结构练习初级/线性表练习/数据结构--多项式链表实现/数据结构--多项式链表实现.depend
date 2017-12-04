@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476705764 source:c:\users\administrator\desktop\数据结构--多项式链表实现\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
