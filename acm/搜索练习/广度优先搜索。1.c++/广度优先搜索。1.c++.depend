@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461386681 source:c:\users\administrator\desktop\广度优先搜索。1.c++\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+	<stdio.h>
+

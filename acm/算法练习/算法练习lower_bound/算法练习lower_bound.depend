@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468032836 source:c:\users\administrator\desktop\À„∑®¡∑œ∞lower_bound\main.cpp
+	<iostream>
+	<algorithm>
+	<numeric>
+	<iterator>
+	<vector>
+
