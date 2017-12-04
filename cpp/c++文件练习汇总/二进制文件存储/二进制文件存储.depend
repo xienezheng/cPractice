@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1466743671 source:c:\users\administrator\desktop\二进制文件存储\main.cpp
+	<iostream>
+	<fstream>
+

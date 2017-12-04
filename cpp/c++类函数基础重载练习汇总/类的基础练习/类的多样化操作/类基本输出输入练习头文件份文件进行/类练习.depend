@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1465821853 source:c:\users\administrator\desktop\类基本输出输入练习\main.cpp
+	<iostream>
+	"student.h"
+
+1465821952 c:\users\administrator\desktop\类基本输出输入练习\include\student.h
+	<iostream>
+

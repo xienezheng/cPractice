@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1464160155 source:c:\users\administrator\desktop\谷歌日历实验版\main.cpp
+	<iostream>
+
+1464164283 source:c:\users\administrator\desktop\代码\应该好好学习的代码\谷歌日历实验版\main.cpp
+	<iostream>
+	<fstream>
+

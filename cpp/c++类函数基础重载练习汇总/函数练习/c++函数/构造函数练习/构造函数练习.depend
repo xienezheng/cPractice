@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461684605 source:c:\users\administrator\desktop\构造函数练习\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1461763160 source:c:\users\administrator\desktop\构造函数练习\src\people.cpp
+	"people.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1461763234 c:\users\administrator\desktop\构造函数练习\include\people.h
+	<stdio.h>
+

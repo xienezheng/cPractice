@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461466283 source:c:\users\administrator\desktop\整形与字符型转换练习\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

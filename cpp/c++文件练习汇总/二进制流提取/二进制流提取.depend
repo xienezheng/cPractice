@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1466743088 source:c:\users\administrator\desktop\二进制流提取\main.cpp
+	<iostream>
+	<fstream>
+
