@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457875497 source:c:\users\administrator\desktop\大数加法\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

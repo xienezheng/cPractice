@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1456064638 source:c:\users\administrator\desktop\密码系统\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1462233386 source:c:\users\administrator\desktop\编程训练\密码系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

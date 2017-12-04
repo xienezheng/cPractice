@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455091385 source:c:\users\administrator\desktop\链表解决实际问题训练\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

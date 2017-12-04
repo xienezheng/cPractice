@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458138866 source:c:\users\administrator\desktop\大数相乘自行版\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1458138866 source:c:\users\administrator\desktop\编程训练\大数相乘自行版\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

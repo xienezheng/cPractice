@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1459434234 source:c:\users\administrator\desktop\时钟问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1459678134 source:c:\users\administrator\desktop\编程训练\时钟问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

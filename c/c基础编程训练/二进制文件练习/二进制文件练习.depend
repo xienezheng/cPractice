@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458875814 source:c:\users\administrator\desktop\编程训练\二进制文件练习\main.c
+	<stdio.h>
+	<stdlib.h>
+
